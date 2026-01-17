@@ -14,8 +14,9 @@ A running light circuit is created where LEDs turn on and off sequentially using
 
 ### Files Included:
 1. [`.ino` sketch file](./LaboratoryActivity_1_Group5.ino)
-2. Breadboard diagram (TinkerCad)
-3. Members’ grades
+2. [Breadboard diagram (TinkerCad)](./Breadboard Diagram.png)
+3. [Members’ grades](./Individual Grades of Members.txt)
+
 
 
 
