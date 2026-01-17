@@ -1,6 +1,6 @@
 # Laboratory Activity 1 – Working with Digital Signals
 
-### [📌 Folder: `Activity1_DigitalSignals`](./Laboratory-Activity-1)
+### [📌 Folder: `Activity1_DigitalSignals`](.)
 
 ### Description
 This activity focuses on using **digital signals** in Arduino.  
@@ -16,6 +16,7 @@ A running light circuit is created where LEDs turn on and off sequentially using
 1. `.ino` sketch file
 2. Breadboard diagram (TinkerCad)
 3. Members’ grades
+
 
 
 
