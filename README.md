@@ -17,5 +17,5 @@ All laboratory activities for COSC 111.
 2. Arduino code (.ino)
 3. Python code (.py)
 
-## Author
+### Author
 **Ambeguia, Mellissa T.**
