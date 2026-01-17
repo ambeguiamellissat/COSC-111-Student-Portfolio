@@ -1,6 +1,6 @@
-# Activity 5 – Arduino Serial Connection from Python
+# Laboratory Activity 5 – Arduino Serial Connection from Python
 
-### 📌 Folder: `Activity5_PythonSerial`
+### [📌 Folder: `Activity5_PythonSerial`](.)
 
 ### Description
 This activity connects Arduino to Python using `pyserial`.  
@@ -23,4 +23,5 @@ Python sends commands to control LEDs through serial communication.
 3. [Header file](./LEDControl.h)
 4. Breadboard diagram
 5. Members’ grades
+
 
