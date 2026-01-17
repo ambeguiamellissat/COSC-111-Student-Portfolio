@@ -1,4 +1,4 @@
-# Activity 3 – Working with Sensors (Fire Sensor Simulation)
+# Laboratory Activity 3 – Working with Sensors (Fire Sensor Simulation)
 
 ### [📌 Folder: `Activity3_FireSensor`](.)
 
@@ -21,3 +21,4 @@ This activity introduces sensor integration using a **thermistor** and **photore
 1. [`fire_sensor_simulation.ino`](./fire_sensor_simulation.ino)
 2. [Breadboard diagram](./fire-sensor.png)
 3. [Members’ grades](<./Individual Grades of Members.txt>)
+
