@@ -18,5 +18,5 @@ All laboratory activities for COSC 111.
 3. Python code (.py)
 
 ### Author
-**Ambeguia, Mellissa T.**
+**Ambeguia, Mellissa T.**  
 Bachelor of Science in Computer Science
