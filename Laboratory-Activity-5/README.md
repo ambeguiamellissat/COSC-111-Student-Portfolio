@@ -20,5 +20,7 @@ Python sends commands to control LEDs through serial communication.
 ### Files Included
 1. [Arduino sketch (.ino)](./LabActivityNo_5.ino)
 2. [Python script (.py)](./LabActivityNo_5.py)
-3. Breadboard diagram
-4. Members’ grades
+3. [Header file](./LEDControl.h)
+4. Breadboard diagram
+5. Members’ grades
+
