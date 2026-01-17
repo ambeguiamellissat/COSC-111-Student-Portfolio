@@ -19,3 +19,4 @@ All laboratory activities for COSC 111.
 
 ### Author
 **Ambeguia, Mellissa T.**
+Bachelor of Science in Computer Science
