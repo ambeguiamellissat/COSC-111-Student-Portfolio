@@ -13,9 +13,10 @@ A running light circuit is created where LEDs turn on and off sequentially using
 - Uses `delay(1000)` for 1-second intervals
 
 ### Files Included:
-1. `.ino` sketch file
+1. [`.ino` sketch file](./LaboratoryActivity_1_Group5.ino)
 2. Breadboard diagram (TinkerCad)
 3. Members’ grades
+
 
 
 
