@@ -15,5 +15,7 @@ This activity demonstrates **two-way serial communication** between Arduino and 
 ### Files Included
 1. [Arduino sketch (.ino)](./lab6_bidirectional_control.ino)
 2. [Header file](./lab6_bidirectional_control.h)
-3. [Breadboard diagram]
-4. [Members’ grades]
+3. [Breadboard diagram](./Lab_Activity-6_BSCS4B.py)
+4. [Header file](./lab6_bidirectional_control.h)
+5. [Members’ grades](./Lab6-Individual-Grades.txt)
+
