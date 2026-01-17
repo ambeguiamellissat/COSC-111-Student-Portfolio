@@ -16,5 +16,7 @@ This activity adds an HTTP layer using **FastAPI** to control Arduino through we
 ### Files Included
 1. [Arduino sketch (.ino)](./Lab_Act7_BSCS4B_Arduino.ino)
 2. [Python FastAPI script (.py)](./Lab_Act7_BSCS4B_Arduino.py)
-3. [Breadboard diagram](././Lab_Act7_BSCS4B_Arduino.png)
-4. [Members’ grades](./lab7-controlling-arduino-using-fastAPI-Grades)
+3. [Header file](./LedController.h)
+4. [Breadboard diagram](././Lab_Act7_BSCS4B_Arduino.png)
+5. [Members’ grades](./lab7-controlling-arduino-using-fastAPI-Grades)
+
