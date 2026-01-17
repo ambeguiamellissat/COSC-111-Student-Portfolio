@@ -1,6 +1,6 @@
 Laboratory Activity 2 – Working with Analog Signals
 
-### [📌 Folder: `Activity2_AnalogSignals`](./Laboratory-Activity-2)
+### [📌 Folder: `Activity2_AnalogSignals`](.)
 
 ### Description
 This activity builds on Activity 1 but uses **analog signals** to control LED brightness using `analogWrite()`.
@@ -15,4 +15,5 @@ This activity builds on Activity 1 but uses **analog signals** to control LED br
 1. [`.ino` sketch file](./LaboratoryActivity_2_Group5.ino)
 2. [Breadboard diagram (TinkerCad)](<./Breadboard Diagram.png>)
 3. [Members’ grades](<./Individual Grades of Members.txt>)
+
 
