@@ -1,4 +1,4 @@
-# Activity 6 – Bidirectional Control (Arduino + Python)
+# Laboratory Activity 6 – Bidirectional Control (Arduino + Python)
 
 ### 📌 [Folder: `Activity6_Bidirectional`](.)
 
@@ -18,4 +18,5 @@ This activity demonstrates **two-way serial communication** between Arduino and 
 3. [Breadboard diagram](./Lab_Activity-6_BSCS4B.py)
 4. [Header file](./lab6_bidirectional_control.h)
 5. [Members’ grades](./Lab6-Individual-Grades.txt)
+
 
