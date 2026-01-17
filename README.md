@@ -1,5 +1,6 @@
 # COSC-111-Student-Portfolio
-All laboratory activities for COSC 111.
+This repository contains all the laboratory activities for the subject Internet of Things with a course code of COSC 111B.  
+Each activity is organized into its own folder, containing the Arduino code, breadboard diagram, and other required files.
 
 ## Table of Contents
 1. [Laboratory Activity No.1: Working with Digital Signals](./Laboratory-Activity-1)
@@ -12,10 +13,11 @@ All laboratory activities for COSC 111.
 8. [Midterm-Laboratory-Examination](./Midterm-Laboratory-Exam)
 9. [Final-Laboratory-Examination](./Final-Laboratory-Exam)
 
-## Laboratory submissions include the following files:
-1. Breadboard diagram
-2. Arduino code (.ino)
-3. Python code (.py)
+## Folder Structure Overview:
+Each activity folder contains:
+1. Arduino sketch file (.ino)
+2. Breadboard diagram (TinkerCad)
+3. Additional files (Python scripts, grades, etc.)
 
 ### Author
 **Ambeguia, Mellissa T.**  
