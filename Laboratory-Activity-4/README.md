@@ -1,4 +1,4 @@
-# Activity 4 – Arduino Serial Connection
+# Laboratory Activity 4 – Arduino Serial Connection
 
 ### [📌 Folder: `Activity4_SerialConnection`](.)
 
@@ -15,5 +15,6 @@ This activity demonstrates **Arduino Serial Communication** and controlling LED 
 1. [Arduino sketch file (.ino)](./LabAct4.ino)
 2. [Breadboard diagram](<./Breadboard Diagram Lab4.png>)
 3. [Members’ grades](<./Individual Grading.txt>)
+
 
 
