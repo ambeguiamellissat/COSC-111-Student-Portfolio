@@ -10,8 +10,8 @@ Each activity is organized into its own folder, containing the Arduino code, bre
 5. [Laboratory Activity No.5: Receiving Serial Connection using Arduino from Python](./Laboratory-Activity-5)
 6. [Laboratory Activity No.6: Bidirectional Control using Arduino and Python](./Laboratory-Activity-6)
 7. [Laboratory Activity No.7: Controlling Arduino using FastAPI](./Laboratory-Activity-7)
-8. [Laboratory-Major-Examination](./Laboratory-Major-Examination)
-[*Midterm-Laboratory-Exam](./Laboratory-Major-Examination/Midterm-Laboratory-Exam)
+8. [Laboratory-Major-Examination](./Laboratory-Major-Examination)  
+[*Midterm-Laboratory-Exam](./Laboratory-Major-Examination/Midterm-Laboratory-Exam)  
 [*Final-Laboratory-Exam](./Laboratory-Major-Examination/Final-Laboratory-Exam)
    
 
