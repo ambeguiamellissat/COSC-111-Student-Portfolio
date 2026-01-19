@@ -11,8 +11,8 @@ Each activity is organized into its own folder, containing the Arduino code, bre
 6. [Laboratory Activity No.6: Bidirectional Control using Arduino and Python](./Laboratory-Activity-6)
 7. [Laboratory Activity No.7: Controlling Arduino using FastAPI](./Laboratory-Activity-7)
 8. [Laboratory-Major-Examination](./Laboratory-Major-Examination)  
-[*Midterm-Laboratory-Exam](./Laboratory-Major-Examination/Midterm-Laboratory-Exam)  
-[*Final-Laboratory-Exam](./Laboratory-Major-Examination/Final-Laboratory-Exam)
+[* Midterm-Laboratory-Exam](./Laboratory-Major-Examination/Midterm-Laboratory-Exam)  
+[* Final-Laboratory-Exam](./Laboratory-Major-Examination/Final-Laboratory-Exam)
    
 
 ## Folder Structure Overview:
